@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wide_margin_custom">16dp</dimen>
+    <dimen name="wide_margin">16dp</dimen>
+    <dimen name="widemargin">16dp</dimen>
+</resources>

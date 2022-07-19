@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week3Prac1</string>
+    <string name="boxOne"></string>
+    <string name="boxTwo"></string>
+    <string name="boxThree"></string>
+    <string name="boxFour"></string>
+    <string name="boxFive"></string>
+
+</resources>
